@@ -1,0 +1,94 @@
+{
+    "Grocery":[
+        {
+            "slno":1,
+            "name":"rice",
+            "image":"img/rice.jpeg",
+            "quantity":"12kg",
+            "unit":2,
+            "dep":"grocery",
+            "notes":"good pdt"
+        },
+        {
+            "slno":2,
+            "name":"sugar",
+            "image":"img/sugar.jpg",
+            "quantity":"1kg",
+            "unit":1,
+            "dep":"grocery",
+            "notes":"good pdt"
+        },
+        {
+            "slno":3,
+            "name":"tomato",
+            "image":"img/tomato.webp",
+            "quantity":"500kg",
+            "unit":5,
+            "dep":"vegitable",
+            "notes":"good pdt"
+        },
+        {
+            "slno":4,
+            "name":"tea powder",
+            "image":"img/tea.jpg",
+            "quantity":"2kg",
+            "unit":4,
+            "dep":"production",
+            "notes":"good pdt"
+        },
+        {
+            "slno":5,
+            "name":"chilly powder",
+            "image":"img/chilly.jpg",
+            "quantity":"4kg",
+            "unit":2,
+            "dep":"production",
+            "notes":"good pdt"
+        },
+        {
+            "slno":6,
+            "name":"oil",
+            "image":"img/oil.jpg",
+            "quantity":"6l",
+            "unit":5,
+            "dep":"production",
+            "notes":"good pdt"
+        },
+        {
+            "slno":7,
+            "name":"rava",
+            "image":"img/rava.jpg",
+            "quantity":"3kg",
+            "unit":7,
+            "dep":"production",
+            "notes":"good pdt"
+        },
+        {
+            "slno":8,
+            "name":"salt",
+            "image":"img/salt.jpg",
+            "quantity":"15kg",
+            "unit":10,
+            "dep":"grocery",
+            "notes":"good pdt"
+        },
+        {
+            "slno":9,
+            "name":"onion",
+            "image":"img/onion.jpg",
+            "quantity":"10kg",
+            "unit":2,
+            "dep":"vegitable",
+            "notes":"good pdt"
+        },
+        {
+            "slno":10,
+            "name":"coriander powder",
+            "image":"img/coriander.webp",
+            "quantity":"2kg",
+            "unit":1,
+            "dep":"production",
+            "notes":"good pdt"
+        }
+    ]
+}
